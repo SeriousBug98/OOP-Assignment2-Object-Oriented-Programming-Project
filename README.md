@@ -29,8 +29,8 @@ mini_orm/
 #### 실행
 
 ```bash
-git clone https://github.com/your-username/mini_orm.git
-cd mini_orm
+git clone https://github.com/SeriousBug98/OOP-Assignment2-Object-Oriented-Programming-Project.git
+cd OOP-Assignment2-Object-Oriented-Programming-Project
 python demo.py
 ```
 
